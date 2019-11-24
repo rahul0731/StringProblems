@@ -1,5 +1,3 @@
-package Important.Strings;
-
 import java.util.Scanner;
 
 public class FindStringPalindrome {
